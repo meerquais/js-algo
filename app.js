@@ -12,7 +12,6 @@ console.log('result=>',result)
 var new1 = "old"
 console.log(new1) 
 //create palindrome algo
-// let str = https://github.com/muhammadminhaj786
 function palindrome(str){
   for (let i=0;i<str.length/2;i++){
     if(str[i]==str[str.length-1]){
